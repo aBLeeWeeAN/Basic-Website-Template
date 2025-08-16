@@ -14,6 +14,9 @@ css/
 *.d.ts
 *.d.ts.map
 
+# Ignore *.tsbuildinfo files
+*.tsbuildinfo
+
 # Ignore all JS files and folders
 js/
 
