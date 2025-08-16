@@ -1,5 +1,5 @@
 {
-    "name": "basic-template",
+    "name": "basic-website-template",
     "version": "1.0.0",
     "description": "Одностраничный сайт, сверстанный по макету из Figma. Реализована статическая кроссбраузерная верстка.",
     "private": true,
